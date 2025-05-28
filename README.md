@@ -22,3 +22,7 @@ A simple Discord bot built using the `discord.js` library. The bot listens for m
 ---
 
 
+<h1>Ensure your bot has the following permissions enabled in the Discord Developer Portal:</h1>
+Read Messages/View Channels<br>
+Send Messages<br>
+Message Content (enable in bot settings)
